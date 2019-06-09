@@ -8,7 +8,7 @@ html {
 
 @keyframes beegee {
     50% {background-color: yellow;}
-    50%{background-color: red;}
+    50% {background-color: red;}
     } 
 
 body {
@@ -19,7 +19,6 @@ body {
   animation-name: beegee;
   animation-duration: 2s;
   animation-iteration-count: infinite;
-  animation-direction: alternate;
 }
 
 a {
