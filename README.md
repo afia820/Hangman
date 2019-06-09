@@ -1,5 +1,6 @@
 # Bob's Burger Hangman
-
+## Background
+I re-created the classic game of Hangman using the animated tv series Bob's Burger as the theme.
 ## Technologies Used 
 * HTML 
 * CSS
